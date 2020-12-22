@@ -1,0 +1,7 @@
+module Worker {
+    struct Msg {
+	    string name;
+		unsigned long birth;
+		octet team;
+	};
+};
